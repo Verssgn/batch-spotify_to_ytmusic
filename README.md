@@ -19,4 +19,6 @@ make sure to run the `spotify_to_ytmusic setup` in the folder you created.
 
 6. Download my Python script in [releases](https://github.com/Verssgn/batch-spotify_to_ytmusic/releases), put it inside the folder, and run it.
 
-The script will cycle all the links.
+The script will cycle all the links. Also, keep in mind that a YouTube playlist is hard limited to 5k songs.
+
+
