@@ -1,3 +1,6 @@
+[![Latest)](https://img.shields.io/github/v/release/Verssgn/batch-spotify_to_ytmusic?cacheSeconds=5000&logo=github)](https://github.com/Verssgn/Sync-Story/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Verssgn/batch-spotify_to_ytmusic/total.svg)]()
+
 # Batch spotify_to_ytmusic
 A small script to make Spotify to Youtube Music semi-automatic. All credit goes to [spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic).
 
