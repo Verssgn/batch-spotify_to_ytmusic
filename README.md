@@ -11,12 +11,12 @@ make sure to run the `spotify_to_ytmusic setup` in the folder you created.
 2. Install tampermonkey in your browser:
 [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
-3. Install my userscript from greasy fork ([here](https://i.imgur.com/RyYayc3.png)) or add it as raw by copying all of [this]() and adding it to tampermonkey. <img src="https://i.imgur.com/RyYayc3.png" height="25">
+3. Install my userscript from greasy fork ([here](https://i.imgur.com/RyYayc3.png)) or add it as raw by copying all of [this](https://raw.githubusercontent.com/Verssgn/batch-spotify_to_ytmusic/refs/heads/main/userscript.js) and adding it to tampermonkey. <img src="https://i.imgur.com/RyYayc3.png" height="25">
 
 4. Go to Spotify in your browser and click the <img src="https://github.com/user-attachments/assets/515ce926-06b4-41d2-9959-a2cde0850bb8" height="25">
 
 5. Create a links.txt file where your oauth.json and settings.json are, and inside it, copy all the links you want to convert to YouTube.
 
-6. Download my Python script in [releases](), put it inside the folder, and run it.
+6. Download my Python script in [releases](https://github.com/Verssgn/batch-spotify_to_ytmusic/releases), put it inside the folder, and run it.
 
 The script will cycle all the links.
