@@ -11,7 +11,7 @@ make sure to run the `spotify_to_ytmusic setup` in the folder you created.
 6. Create a links.txt file where your oauth.json and settings.json are, and inside it, copy all the links you want to convert to YouTube.
 7. Download my Python script in [releases](), put it inside the folder, and run it.
 
-The script will cycle all the links 
+The script will cycle all the links.
 
 
 
